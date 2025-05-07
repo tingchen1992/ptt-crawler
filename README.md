@@ -32,10 +32,9 @@
 
 1. 安裝 [Python 3.11](https://www.python.org/downloads/)
 2. 安裝必要套件：
-   ```bash
-   pip install selenium webdriver-manager
+   ```pip install selenium webdriver-manager```
 
 
 ## 🛠️ 執行程式
-python3 ptt.py
+```python3 ptt.py```
 
